@@ -12,4 +12,12 @@ public class PruebaGit {
         this.float1 = flotante;
     }
 
+    public String getLetra1(){
+        return letra1;
+    }
+
+    public int getEntero1(){
+        return entero1;
+    }
+
 }
